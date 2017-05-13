@@ -28,6 +28,26 @@ body {
     float: left;
 }
 
-.tab-link {
-    color: green;
+.jumbotron {
+    background-color: rgb(36, 2, 2);
+    border: 5px, solid, green;
 }
+
+.jumbotron h1{
+    color: white;
+}
+
+.jumbotron p {
+    color: white;
+}
+
+.logo {
+    height: 75px;
+    width: 200px;
+}
+
+.tabs {
+    /*width: 120px;*/
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 20px;
